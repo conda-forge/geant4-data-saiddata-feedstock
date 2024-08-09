@@ -17,7 +17,7 @@ source:
     folder: dataset
 
 build:
-    number: 0
+    number: 1
     noarch: generic
     script:
         - mkdir -p ${PREFIX}/{{ install_dir }}
@@ -44,3 +44,4 @@ extra:
     recipe-maintainers:
         - tschoonj
         - chrisburr
+        - tkittel
