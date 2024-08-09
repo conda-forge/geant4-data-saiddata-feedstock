@@ -1,6 +1,6 @@
 {% set dataset_name = "SAIDDATA" %}
 {% set version = "2.0" %}
-{% set sha256 = "b13579e9e7813456adbf6e5a0b7f8604d3804741a0ab20eb3a2d3a1e71720031" %}
+{% set sha256 = "1d26a8e79baa71e44d5759b9f55a67e8b7ede31751316a9e9037d80090c72e91" %}
 {% set env_var = "G4SAIDXSDATA" %}
 {% set summary = "GEANT4 data files from evaluated cross-sections in SAID data-base" %}
 
